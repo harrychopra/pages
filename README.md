@@ -1,2 +1,2 @@
-# pages
-A placeholder to link to random stuff I'm taking a tab at
+# pages.github
+A placeholder to link to random stuff I'm taking a stab at.
